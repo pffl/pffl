@@ -1,76 +1,49 @@
-
 <div align="center">
 
-# takeown
-
-`Matheus` / `Brazil`
-
-**Learning, building and exploring.**
-
-[GitHub](https://github.com/pffl) ・ [Discord](https://discord.com/users/takeown)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Matheus, known as takeown — learning programming and web development." src="./dark.svg" width="100%">
+</picture>
 
 </div>
 
----
+## `01` / About
 
-### `01` — About
+I'm **Matheus**, better known as **takeown**.
 
-I'm Matheus, better known as **takeown**.
+I'm interested in programming, software development and technology. I enjoy creating personal projects, experimenting with different languages and understanding how things work behind the scenes.
 
-I'm interested in programming, software development and technology. I enjoy creating personal projects, experimenting with different languages and learning how things work behind the scenes.
+I'm always learning, practicing and improving my skills — one project and one line of code at a time.
 
-Currently learning, practicing and improving my programming skills.
+## `02` / Technologies
 
-### `02` — Technologies
+**Working with**
 
-**Languages & Web**
-
-`Python` `JavaScript` `TypeScript` `HTML` `CSS` `PHP`
+`Python` · `JavaScript` · `TypeScript` · `HTML` · `PHP`
 
 **Currently learning**
 
 `C++`
 
-### `03` — Interests
+## `03` / Focus
 
-- Software development
-- Web development
-- Automation
-- Programming logic
-- Technology and experimentation
+- Building personal projects with Python and JavaScript.
+- Creating websites with HTML, TypeScript and PHP.
+- Practicing programming logic and exploring new tools.
+- Learning C++ and strengthening my fundamentals.
 
-### `04` — Learning
+## `04` / Connect
 
-```yaml
-name: Matheus
-alias: takeown
-discord: takeown
-status: Always learning
+- **Discord:** `takeown`
 
-currently:
-  - Python projects
-  - JavaScript development
-  - TypeScript
-  - HTML / CSS
-  - PHP
-  - C++ fundamentals
-```
-
-### `05` — GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=takeown&show_icons=true&hide_border=true&bg_color=09000f&title_color=b98aff&icon_color=b98aff&text_color=c9c0d5" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeown&layout=compact&hide_border=true&bg_color=09000f&title_color=b98aff&text_color=c9c0d5" width="48%"/>
-
-</div>
+Discord username: `takeown`
 
 ---
 
 <div align="center">
 
-`PRESENT DAY, PRESENT TIME`
+`PRESENT DAY, PRESENT TIME.`
 
 *Welcome to the Wired.*
 
