@@ -7,7 +7,7 @@
 
 **Learning, building and exploring.**
 
-[GitHub](https://github.com/takeown) ・ [Discord](https://discord.com/users/takeown)
+[GitHub](https://github.com/pffl) ・ [Discord](https://discord.com/users/takeown)
 
 </div>
 
